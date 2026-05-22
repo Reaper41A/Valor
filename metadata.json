@@ -1,0 +1,6 @@
+{
+  "name": "Valor",
+  "description": "An offline-first, low-bandwidth community healthcare guidance prototype providing symptom screening, maternal & preventative health databases, and voice-supported public clinic registries.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
